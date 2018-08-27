@@ -1,5 +1,5 @@
 # Sample-MD5
-a sample cross platform MD5(copy from internet)
+a sample cross platform MD5(a copy from internet)
 
 compile: g++ md5.cpp test.cpp -o test.exe
 
